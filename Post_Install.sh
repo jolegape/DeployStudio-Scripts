@@ -2,6 +2,9 @@
 
 # -----------------------------------------------------------
 # Post install script that runs at the end of the DeployStudio
+# workflow. Some of the commands below are duplicates of settings
+# already configured by Configuration Profiles, however are left
+# here for peace of mind. 
 # 
 # File:			Post_Install.sh
 # Usage:		./Post_Install.sh
